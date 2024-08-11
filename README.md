@@ -1,4 +1,4 @@
-## Neural Network 0 to 1: OCR Implementation
+# Neural Network 0 to 1: OCR Implementation
 Welcome to the Neural Network 0 to 1: OCR Implementation repository! This project is a comprehensive guide to building a neural network for Optical Character Recognition (OCR) from scratch. The goal is to take you through the process of developing a basic neural network and applying it to recognize handwritten digits.
 
 ### This project was developed as part of a workshop conducted under IEEE SIES GST, focusing on understanding the core principles of machine learning. The workshop covered concepts ranging from basic mathematics used in computing a neuron to classifying 10-digit numbers using a fully connected neural network.
