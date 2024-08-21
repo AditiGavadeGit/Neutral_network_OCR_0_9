@@ -17,7 +17,7 @@ Each step of the network's development is thoroughly explained, making it easy t
 1. [Usage](https://github.com/AditiGavadeGit/Neutral_network_OCR_0_9/blob/main/README.md#usage)
 2. [Project Structure](https://github.com/AditiGavadeGit/Neutral_network_OCR_0_9/blob/main/README.md#project-structure)
 3. [Understanding the Code](https://github.com/AditiGavadeGit/Neutral_network_OCR_0_9/blob/main/README.md#understanding-the-code)
-4. Customization
+4. [Customization](https://github.com/AditiGavadeGit/Neutral_network_OCR_0_9/blob/main/README.md#customization)
 5. Contributing
 6. License
 7. Acknowledgments
