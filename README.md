@@ -14,7 +14,7 @@ The network is trained to recognize digits from the MNIST dataset, providing a p
 ### Detailed Walkthrough: 
 Each step of the network's development is thoroughly explained, making it easy to follow along and understand the underlying concepts. 
 # Table of Contents 
-Usage
+[Usage] (https://github.com/AditiGavadeGit/Neutral_network_OCR_0_9/blob/main/README.md#usage) 
  Project Structure
  Understanding the Code
  Customization
