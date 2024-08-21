@@ -21,6 +21,10 @@ Usage
  Contributing
  License
  Acknowledgments
+# Usage 
+To train and test the neural network on the MNIST dataset, simply run the following command: bash python main.py
+
+This will execute the script, training the neural network on the provided dataset and then testing its accuracy in recognizing handwritten digits.
  # Project Structure
  Here’s a breakdown of the repository’s contents:
 
