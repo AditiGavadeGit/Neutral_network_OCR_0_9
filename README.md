@@ -19,8 +19,8 @@ Each step of the network's development is thoroughly explained, making it easy t
 3. [Understanding the Code](https://github.com/AditiGavadeGit/Neutral_network_OCR_0_9/blob/main/README.md#understanding-the-code)
 4. [Customization](https://github.com/AditiGavadeGit/Neutral_network_OCR_0_9/blob/main/README.md#customization)
 5. [Contributing](https://github.com/AditiGavadeGit/Neutral_network_OCR_0_9/blob/main/README.md#contributing)
-6. [License]
-7. [Acknowledgments]
+6. [License](https://github.com/AditiGavadeGit/Neutral_network_OCR_0_9/blob/main/README.md#license)
+7. [Acknowledgments]()
 # Usage 
 To train and test the neural network on the MNIST dataset, simply run the following command: bash python main.py
 
