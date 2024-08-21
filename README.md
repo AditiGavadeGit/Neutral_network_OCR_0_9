@@ -48,7 +48,7 @@ Add Layers: Experiment with adding more layers or different types of layers (e.g
 Contributions are welcome! Whether you have suggestions for improvement, spot a bug, or want to add new features, feel free to fork the repository and submit a pull request.
 
 # License 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE]() file for more details.
 
 # Acknowledgments 
 This project is inspired by the need to understand the inner workings of neural networks, particularly in the context of OCR. Special thanks to the { https://github.com/Adityadikonda10 } and educators whose work in the machine learning community made this project possible
